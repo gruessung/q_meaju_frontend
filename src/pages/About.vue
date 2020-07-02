@@ -7,7 +7,7 @@
         <div>
           <center>
             <q-icon name="face" /><br />
-            <a href="https://gruessung.eu" style="text-decoration:none; color:black;" target="_blank">Alexander Gr&uuml;&szlig;ung</a>
+            <a href="https://gruessung.eu" rel="noopener noreferrer" style="text-decoration:none; color:black;" target="_blank">Alexander Gr&uuml;&szlig;ung</a>
             <br /><br />
             <q-icon name="info" /><br />
             Version 1.0
